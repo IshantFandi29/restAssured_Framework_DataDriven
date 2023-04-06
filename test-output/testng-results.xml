@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-06T11:58:15 IST" name="Suite" finished-at="2023-04-06T11:58:31 IST" duration-ms="16142">
+    <groups>
+    </groups>
+    <test started-at="2023-04-06T11:58:15 IST" name="Test" finished-at="2023-04-06T11:58:31 IST" duration-ms="16142">
+      <class name="test_class.Put_TC1">
+        <test-method signature="orchestrator()[pri:0, instance:test_class.Put_TC1@4397ad89]" started-at="2023-04-06T11:58:29 IST" name="orchestrator" finished-at="2023-04-06T11:58:31 IST" duration-ms="2199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orchestrator -->
+      </class> <!-- test_class.Put_TC1 -->
+      <class name="test_class.Patch_TC1">
+        <test-method signature="orchestrator()[pri:0, instance:test_class.Patch_TC1@3d246ea3]" started-at="2023-04-06T11:58:23 IST" name="orchestrator" finished-at="2023-04-06T11:58:26 IST" duration-ms="3252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orchestrator -->
+      </class> <!-- test_class.Patch_TC1 -->
+      <class name="test_class.Post_TC1">
+        <test-method signature="orchestrator()[pri:0, instance:test_class.Post_TC1@341814d3]" started-at="2023-04-06T11:58:26 IST" name="orchestrator" finished-at="2023-04-06T11:58:29 IST" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orchestrator -->
+      </class> <!-- test_class.Post_TC1 -->
+      <class name="test_class.Get_tc1">
+        <test-method signature="orchestrator()[pri:0, instance:test_class.Get_tc1@479ceda0]" started-at="2023-04-06T11:58:15 IST" name="orchestrator" finished-at="2023-04-06T11:58:23 IST" duration-ms="8270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orchestrator -->
+      </class> <!-- test_class.Get_tc1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
